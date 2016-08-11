@@ -1,0 +1,16 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "promise": "^7.1.1",
+    "queue": "^4.0.0",
+    "request": "^2.74.0"
+  }
+}
